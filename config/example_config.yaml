@@ -1,0 +1,31 @@
+output_dir: # set up the output directory, must end with slash
+ ../test_EM
+input_dir: # specify the input directory, which contains the {race}.pull and {race}.glid outputs from gl_greedy.
+ /Volumes/bioxover/users/mhalagan/9LocusAnalysis/freqs/updated_cfgs/GREEDY_DETAILED
+populations:
+ # - AAFA
+ # - AINDI
+ # - AMIND
+ # - CARHIS
+ # - FILII
+ - JAPI
+ # - MSWHIS
+ # - NCHI
+ # - SCSEAI
+ # - AFA
+ # - AISC
+ # - API
+ # - CARIBI
+ # - HAWI
+ # - KORI
+ # - NAMER
+ # - SCAHIS
+ # - VIET
+ # - AFB
+ # - ALANAM
+ # - CARB
+ # - CAU
+ # - HIS
+ # - MENAFC
+ # - NAM
+ # - SCAMB
